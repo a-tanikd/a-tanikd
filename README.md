@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a japanese software engineer, livining in Osaka, Japan.  
+I’m a Japanese software engineer, livining in Osaka, Japan.  
 I'm learning web development to get a job as a web engineer!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -7,7 +7,7 @@ I'm learning web development to get a job as a web engineer!
 ![a-tanikd's github stats](https://github-readme-stats.vercel.app/api?username=a-tanikd&show_icons=true&count_private=true&line_height=40)
 
 ### 🎓 Education
-**Master of Computer Schience**  
+**Master of Computer Science**  
 _Osaka University_  
 2017–2019
 

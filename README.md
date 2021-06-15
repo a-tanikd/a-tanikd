@@ -8,7 +8,7 @@ I'm learning web development to get a job as a web engineer!
 
 ### 🎓 Education
 **Master of Computer Science**  
-_Osaka University_  
+_Osaka University, Osaka, Japan_  
 2017–2019
 
 - Heavy focus on software engineering, especially automated program repair, and automated program refactoring.

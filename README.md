@@ -12,7 +12,7 @@ _Osaka University, Osaka, Japan_
 2017–2019
 
 - Heavy focus on software engineering, especially automated program repair, and automated program refactoring.
-- Built an automated program repair system, named [kgenprog](https://github.com/kusumotolab/kgenprog), with lab members.
+- Built an automated program repair system, named [kGenProg](https://github.com/kusumotolab/kgenprog), with lab members.
 - Built an automated program refactoring system, [ExploReR](https://github.com/a-tanikd/explorer).
 
 ### ✅ Skills

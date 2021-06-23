@@ -23,5 +23,5 @@ _Osaka University, Osaka, Japan_
 ### 🎖 Awards
 - [Best Poster Award - APSEC 2018](http://www.apsec2018.org/)  
 kGenProg: A High-Performance, High-Extensibility and High-Portability APR System
-- [Enterprise Award - SES2018 (🇯🇵ja)](https://ses.sigse.jp/2018/)
+- [Enterprise Award - SES2018 (🇯🇵ja)](https://ses.sigse.jp/2018/)  
 企業のソフトウェア開発に対する自動プログラム修正技術適用の試み

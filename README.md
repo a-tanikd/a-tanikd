@@ -19,6 +19,8 @@ _Osaka University, Osaka, Japan_
 - Inquisitiveness for everything, especially tech, philosophy, psychology, and neuroscience
 - C#, Java, JavaScript, TypeScript, Python, Golang, C/C++
 - Solid knowledge of software engineering principles
+- Understanding various programming paradigms, including procedural, object-oriented,  
+  declarative, and functional programming paradigms.
 
 ### 🎖 Awards
 - [Best Poster Award - APSEC 2018](http://www.apsec2018.org/)  

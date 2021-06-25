@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=tanimon)
+
+
 ### 👋 Hi there
 
 I’m a Japanese software engineer, livining in Osaka, Japan.  

@@ -25,7 +25,10 @@ _Osaka University, Osaka, Japan_
 - Understanding various programming paradigms, including procedural, object-oriented,  
   declarative, and functional programming paradigms.
 
-### 🎖 Awards
+### 🎖 Certifications
+- [Back End Development and APIs - freeCodeCamp](https://www.freecodecamp.org/certification/tanimon/back-end-development-and-apis)
+
+### 🏆 Awards
 - [Best Poster Award - APSEC 2018](http://www.apsec2018.org/)  
 kGenProg: A High-Performance, High-Extensibility and High-Portability APR System
 - [Enterprise Award - SES2018 (🇯🇵ja)](https://ses.sigse.jp/2018/)  

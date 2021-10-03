@@ -28,8 +28,8 @@ _Osaka University, Osaka, Japan_
 ### 🎖 Certifications
 - [Back End Development and APIs - freeCodeCamp](https://www.freecodecamp.org/certification/tanimon/back-end-development-and-apis)
 - [Python - Kaggle](https://www.kaggle.com/learn/certification/tanimon/python)
-- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/tanimon/intro-to-machine-learning)
-- [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/tanimon/intermediate-machine-learning)
+- [Intro to Machine Learning - Kaggle](https://www.kaggle.com/learn/certification/tanimon/intro-to-machine-learning)
+- [Intermediate Machine Learning - Kaggle](https://www.kaggle.com/learn/certification/tanimon/intermediate-machine-learning)
 
 ### 🏆 Awards
 - [Best Poster Award - APSEC 2018](http://www.apsec2018.org/)  

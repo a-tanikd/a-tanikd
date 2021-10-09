@@ -23,7 +23,7 @@ _Osaka University, Osaka, Japan_
 - C#, Java, JavaScript, TypeScript, Python, Golang, C/C++
 - Solid knowledge of software engineering principles
 - Understanding various programming paradigms, including procedural, object-oriented,  
-  declarative, and functional programming paradigms.
+  declarative, and functional ones.
 
 ### 🎖 Certifications
 - [Back End Development and APIs - freeCodeCamp](https://www.freecodecamp.org/certification/tanimon/back-end-development-and-apis)

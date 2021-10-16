@@ -6,7 +6,7 @@
 I’m a Japanese software engineer, livining in Osaka, Japan.  
 I'm learning web development to get a job as a web engineer!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanimon&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanimon&hide=html,css)
 ![tanimon's github stats](https://github-readme-stats.vercel.app/api?username=tanimon&show_icons=true&count_private=true&line_height=40)
 
 ### 🎓 Education
